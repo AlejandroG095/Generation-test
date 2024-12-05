@@ -1,1 +1,3 @@
 Cuestionario - Completar los espacios en blanco:
+
+1. GitHub es una plataforma web construida para que los desarrolladores colaboren en proyectos usando el sistema de control de versiones Git.
