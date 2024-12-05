@@ -1,1 +1,4 @@
 Cuestionario - Completar los espacios en blanco:
+
+
+2. Muchos de los proyectos de código abierto más usados en el mundo están alojados en GitHub.
