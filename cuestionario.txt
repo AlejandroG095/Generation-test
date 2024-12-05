@@ -1,4 +1,3 @@
 Cuestionario - Completar los espacios en blanco:
-
-
+1. GitHub es una plataforma web construida para que los desarrolladores colaboren en proyectos usando el sistema de control de versiones Git.
 2. Muchos de los proyectos de código abierto más usados en el mundo están alojados en GitHub.
