@@ -7,3 +7,7 @@ Cuestionario - Completar los espacios en blanco:
 
 
 4. Cuando se trabaja con Git, los desarrolladores suelen subir cambios desde su repositorio local al repositorio Remoto para compartir su trabajo con otros y sincronizar la base de código.
+
+
+5. La rama main y master en Git típicamente representa la versión estable y lista para producción de la base de
+código, sirviendo como punto de referencia principal para el desarrollo y los lanzamientos.
